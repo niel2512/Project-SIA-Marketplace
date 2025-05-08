@@ -38,3 +38,12 @@ Run database migrations:
 ```sh
 php artisan migrate
 ```
+
+Run the dev server (the output will give the address):
+
+```sh
+php artisan serve
+```
+
+#### OPTIONAL
+Run `tokomukena.sql` to locally 
