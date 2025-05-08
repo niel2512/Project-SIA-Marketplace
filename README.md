@@ -25,7 +25,7 @@ Setup configuration:
 cp .env.example .env
 ```
 
-Edit .env `DB_DATABASE = "name database"`
+Edit .env `DB_DATABASE = "your database name here"`
 
 Generate application key:
 
