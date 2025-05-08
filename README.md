@@ -12,7 +12,7 @@
 Clone the repo locally:
 
 ```sh
-git clone https://github.com/laravel-filament/demo.git filament-demo && cd filament-demo
+git clone https://github.com/niel2512/Project-SIA-Marketplace.git
 ```
 
 ```sh
@@ -24,6 +24,8 @@ Setup configuration:
 ```sh
 cp .env.example .env
 ```
+
+Edit .env DB_DATABASE = "name database"
 
 Generate application key:
 
