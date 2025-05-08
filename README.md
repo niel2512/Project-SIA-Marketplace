@@ -25,10 +25,16 @@ Setup configuration:
 cp .env.example .env
 ```
 
-Edit .env DB_DATABASE = "name database"
+Edit .env `DB_DATABASE = "name database"`
 
 Generate application key:
 
 ```sh
 php artisan key:generate
+```
+
+Run database migrations:
+
+```sh
+php artisan migrate
 ```
